@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learn-react-counter/static/css/main.c9fef39b.chunk.css",
+    "main.js": "/learn-react-counter/static/js/main.94c4947d.chunk.js",
+    "main.js.map": "/learn-react-counter/static/js/main.94c4947d.chunk.js.map",
+    "runtime-main.js": "/learn-react-counter/static/js/runtime-main.a357e840.js",
+    "runtime-main.js.map": "/learn-react-counter/static/js/runtime-main.a357e840.js.map",
+    "static/js/2.427ead3b.chunk.js": "/learn-react-counter/static/js/2.427ead3b.chunk.js",
+    "static/js/2.427ead3b.chunk.js.map": "/learn-react-counter/static/js/2.427ead3b.chunk.js.map",
+    "static/js/3.64b07b50.chunk.js": "/learn-react-counter/static/js/3.64b07b50.chunk.js",
+    "static/js/3.64b07b50.chunk.js.map": "/learn-react-counter/static/js/3.64b07b50.chunk.js.map",
+    "index.html": "/learn-react-counter/index.html",
+    "static/css/main.c9fef39b.chunk.css.map": "/learn-react-counter/static/css/main.c9fef39b.chunk.css.map",
+    "static/js/2.427ead3b.chunk.js.LICENSE.txt": "/learn-react-counter/static/js/2.427ead3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a357e840.js",
+    "static/js/2.427ead3b.chunk.js",
+    "static/css/main.c9fef39b.chunk.css",
+    "static/js/main.94c4947d.chunk.js"
+  ]
+}
